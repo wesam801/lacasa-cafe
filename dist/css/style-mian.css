@@ -536,7 +536,7 @@ body{
     transition: all 0.7s;
 }
 .teams-edit .feat{
-    min-height: 500px;
+    height: 500px;
     transition: all 0.7s;
 }
 .teams .feat .div-img{

@@ -247,7 +247,7 @@ body{
     font-weight: bold;
 }
 .content .feat .div-text span{
-    color: var(--color-red-mian);
+    color: green;
 }
 .content .feat .div-text p{
     padding: 5px 10px;

@@ -104,8 +104,8 @@ body{
 .slider{
     width: 100%;
     height: calc(60vh + 120px);
-    background: url('../img/background-slider.jpg');
-    background-position: bottom;
+    background: url('../img/background-slider-2');
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: -120px;
@@ -136,7 +136,7 @@ body{
     color: #fff;
     font-weight: bold;
     font-size: 60px;
-    /* font-family: 'Pacifico', cursive; */
+    font-family: 'CompactaBT';
 }
 .slider .feat h2+a{
     color: var(--color-white);
@@ -539,6 +539,7 @@ body{
 .teams{
     padding: 40px 0;
     text-align: center;
+    display: none;
 }
 .teams .container{
     display: grid;

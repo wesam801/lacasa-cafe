@@ -386,11 +386,6 @@ body{
     .footer img{
         width: 50px;
     }
-    .footer  .link{
-        /* padding: 0;
-        border: none;
-        margin: 0; */
-    }
 }
 #myBtn{
     background: var(--color-red-mian);
@@ -418,6 +413,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    display: none;
   }
   .smiley {
     width: 10em;

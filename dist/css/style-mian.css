@@ -301,6 +301,9 @@ body{
     position: relative;
     overflow: hidden;
 }
+.social-media .container{
+    margin: 0 auto;
+}
 .social-media h2{
     color: var(--color-white);
     position: relative;
